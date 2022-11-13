@@ -21,3 +21,8 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 ## Problem Description
 
 The project is a small console application where users are basically customers visting a coffee shop and pay the bills after they had their desired coffee. At the end of each transactions a receipt will be generated and that will be sotred in `transartions.txt` file and will be displayed on the console as well.
+ 
+
+## Software engineering assignment
+
+I have commited this code for the sake of software engineering assignment.
